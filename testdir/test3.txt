@@ -1,4 +1,1 @@
-posledni soubor
-je ve slozce
-bude se mazat
-
+#smazani vseho
